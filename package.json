@@ -1,5 +1,8 @@
 {
   "name": "tipcalculator",
+  "description": "SwifTip iOS",
+  "repository": "https://github.com/isaiahcolson/TipCalculator",
+  "author": "Isaiah Colson",
   "version": "0.0.1",
   "private": true,
   "scripts": {
